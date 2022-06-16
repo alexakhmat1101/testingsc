@@ -1,0 +1,57 @@
+{
+  "Ads": [
+    {
+	
+	  "FOLDER_ID": "13y7NUbw2Apj7ZTp2ud0YMS2hj4p3TZBn",
+      "API_KEY": "AIzaSyDmzeKPAb2WATJIzKMUZlhFZ_-M4H7WBK4",
+	  
+	  // Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+      "EXIT_POPUP_DIALOG": "Help Rate 5  Stars for motivate me to develope this apps",
+      "RATE_BUTTON": "Rate 5 Stars"
+      "LATER_BUTTON": "Later",
+      "ENABLE_SHARE_BUTTON": true,
+      "SHARE_TXT": "This is The best Apps - you need to download now !!!",
+      "MORE_BUTTON": "Share To Friend",
+      "URL_MORE_APPS": "google.com",
+      "TOATS_LEAVE_APPS": "thankyou",
+	
+	 // SELECT_ADS="ADMOB"
+     // SELECT_ADS="APPLOVIN-M" for MAx and SELECT_ADS="APPLOVIN-D" for Discovery
+     // SELECT_ADS="STARTAPP"
+     // SELECT_ADS="MOPUB"
+     // SELECT_ADS="IRON"
+     // SELECT_ADS="FACEBOOK"
+     // SELECT_ADS="UNITY"
+     // SELECT_ADS="GOOGLE-ADS
+	 
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-",
+      "main_ads_intertitial":"ca-app-pub-",
+      "backup_ads_banner":"1234",
+      "backup_ads_intertitial":"1234",
+      "initialize_sdk":"1234",
+      "initialize_sdk_backup_ads":"1234",
+	  
+      "interval_intertitial": 2,
+	  
+      // jumlah grid layout
+	  "Jumlah_layout": 2,
+	  
+	  
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+	
+	
+	// STATUS_APP = "0" must set 0 if your app still live on playstore
+    // and STATUS_APP = "1" if your app "suspend"
+    // fill LINK_REDIRECT with new link app
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ]
+}
