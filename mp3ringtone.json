@@ -23,20 +23,20 @@
 		"unity_interst": "Android_Interstitial"
 	}],
 	"Ringtone": [
-	    {
-			"link_ringtone": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3"
+	    	{
+		"link_ringtone": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3"
 		},
 		
 		{
-		    "link_ringtone" : "https://ia600109.us.archive.org/5/items/MUROTTALSURATPENDEK/Belajar%20Mengaji%20Surat%20Pendek%20Anak%20TK%20%20Surat%20Az%20Zalzalah.mp3"
+		"link_ringtone" : "https://ia600109.us.archive.org/5/items/MUROTTALSURATPENDEK/Belajar_Mengaji_Surat_Pendek_Anak_TK__Surat_Az_Zalzalah.mp3"
 		},
 		
 		{
-		    "linnk_rington" : "https://ia600109.us.archive.org/5/items/MUROTTALSURATPENDEK/Belajar%20mengaji%20surat%20pendek.mp3"
+		"link_ringtone" : "https://ia600109.us.archive.org/5/items/MUROTTALSURATPENDEK/Belajar_mengaji_surat_pendek.mp3"
 		},
 		
 		{
-			"link_ringtone": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3"
+		"link_ringtone": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3"
 		}
 	]
 }
