@@ -74,14 +74,14 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-{ "name_mp3": "ヒロイン, Heroine  - Kobasolo ft. Asako, 杏沙子.mp3",    "link_mp3": "ヒロイン, Heroine  - Kobasolo ft. Asako, 杏沙子.mp3"  },
-   { "name_mp3": "フクロウ, Fukurou - DAZBEE.mp3",    "link_mp3": "フクロウ, Fukurou - DAZBEE.mp3"  },
-   { "name_mp3": "夜に駆ける,Yoru Ni Kakeru (YOASOBI) - Takeshi Saito.mp3",    "link_mp3": "夜に駆ける,Yoru Ni Kakeru (YOASOBI) - Takeshi Saito.mp3"  },
-   { "name_mp3": "Happy Birthday - Harutya ,春茶.mp3",    "link_mp3": "Happy Birthday - Harutya ,春茶.mp3"  },
-   { "name_mp3": "Hello, How are you - Kano, 鹿乃.mp3",    "link_mp3": "Hello, How are you - Kano, 鹿乃.mp3"  },
-   { "name_mp3": "Gurenge - XYNSIA (Yui).mp3",    "link_mp3": "Gurenge - XYNSIA (Yui).mp3"  },
-   { "name_mp3": "Chouchou Musubi - Kobasolo ft. Lefty Hand Cream.mp3",    "link_mp3": "Chouchou Musubi - Kobasolo ft. Lefty Hand Cream.mp3"  },
-   { "name_mp3": "Aitai Yo - Harutya 春茶.mp3",    "link_mp3": "Aitai Yo - Harutya 春茶.mp3"  },
+   //{ "name_mp3": "ヒロイン, Heroine  - Kobasolo ft. Asako, 杏沙子.mp3",    "link_mp3": "ヒロイン, Heroine  - Kobasolo ft. Asako, 杏沙子.mp3"  },
+   //{ "name_mp3": "フクロウ, Fukurou - DAZBEE.mp3",    "link_mp3": "フクロウ, Fukurou - DAZBEE.mp3"  },
+   //{ "name_mp3": "夜に駆ける,Yoru Ni Kakeru (YOASOBI) - Takeshi Saito.mp3",    "link_mp3": "夜に駆ける,Yoru Ni Kakeru (YOASOBI) - Takeshi Saito.mp3"  },
+   //{ "name_mp3": "Happy Birthday - Harutya ,春茶.mp3",    "link_mp3": "Happy Birthday - Harutya ,春茶.mp3"  },
+   //{ "name_mp3": "Hello, How are you - Kano, 鹿乃.mp3",    "link_mp3": "Hello, How are you - Kano, 鹿乃.mp3"  },
+   //{ "name_mp3": "Gurenge - XYNSIA (Yui).mp3",    "link_mp3": "Gurenge - XYNSIA (Yui).mp3"  },
+   //{ "name_mp3": "Chouchou Musubi - Kobasolo ft. Lefty Hand Cream.mp3",    "link_mp3": "Chouchou Musubi - Kobasolo ft. Lefty Hand Cream.mp3"  },
+   //{ "name_mp3": "Aitai Yo - Harutya 春茶.mp3",    "link_mp3": "Aitai Yo - Harutya 春茶.mp3"  },
    { "name_mp3": "オレンジ, Orange - MindaRyn ft. markmywords..mp3",    "link_mp3": "オレンジ, Orange - MindaRyn ft. markmywords..mp3"  },
    { "name_mp3": "Ref: Rain - MinRi ft. Ebbie Yananda.mp3",    "link_mp3": "Ref: Rain - MinRi ft. Ebbie Yananda.mp3"  },
    { "name_mp3": "One more time, One more chance - Yurina.mp3",    "link_mp3": "One more time, One more chance - Yurina.mp3"  },
@@ -96,8 +96,8 @@ you need to try download this too bro
 ],
 "Wallpaper": [
 
- {    "image": "file:///android_asset/wallpaper (1).jpg"  },
- {    "image": "file:///android_asset/wallpaper (2).jpg"  },
+ //{    "image": "file:///android_asset/wallpaper (1).jpg"  },
+ //{    "image": "file:///android_asset/wallpaper (2).jpg"  },
  {    "image": "file:///android_asset/wallpaper (3).jpg"  },
  {    "image": "file:///android_asset/wallpaper (4).jpg"  },
  {    "image": "file:///android_asset/wallpaper (5).jpg"  },
