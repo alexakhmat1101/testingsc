@@ -12,6 +12,8 @@
     // dengan sistem pembayaran per view. hanya butuh initilze SDK. Registrasi https://ad.clickmobile.id/
     // h. SELECT_MAIN_ADS="ALIEN-M" iklan husus dari Aliendroid menggunakan sistem mediasi, saat ini hanya menggunakan Smaato
     // sebagai mediasi dengan dukungan format iklan Banner, interstitial, rewards dan natives
+	
+	// kosongkan semua ads untuk merubah jadi mode no ads mode review
 	   
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -29,8 +31,8 @@
       
 	  
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
 	  
       "open_ads_admob":"",
@@ -53,13 +55,7 @@
       "link_redirect": "https://"
     }
   ],
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "kosong",
-      "image": "https://cdn.pixabay.com/photo/2013/07/13/12/19/box-159629_960_720.png"
-    }
-  ],
+
   "Data": [
     {"id":1,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"belajar-melawan-sifat-egois.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/belajar-melawan-sifat-egois.mp3","lyrics":"nikmati dan hayati"},
     {"id":2,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"bersihkan-hati.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/bersihkan-hati.mp3","lyrics":"nikmati dan hayati"},
