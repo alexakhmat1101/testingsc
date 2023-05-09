@@ -1,0 +1,78 @@
+{
+  "Ads": [
+    {
+	
+	// a. SELECT_MAIN_ADS="ADMOB" Sistem mediasi dan open bidding
+    // b. SELECT_MAIN_ADS="APPLOVIN-M" Sistem mediasi dan open bidding
+    // c. SELECT_MAIN_ADS="APPLOVIN-D" Tanpa mediasi menggunakan Zone ID
+    // d. SELECT_MAIN_ADS="STARTAPP" Tanpa Mediasi dan Open Bidding, butuh initilze SDK
+    // e. SELECT_MAIN_ADS="FACEBOOK" waterfall
+    // f. SELECT_MAIN_ADS="IRON" Sistem mediasi dan open bidding, butuh initilze SDK
+    // g. SELECT_MAIN_ADS="ALIEN-V" iklan husus dari Aliendroid hanya mendukung Banner 320x50, Interstitial dan Open Ads
+    // dengan sistem pembayaran per view. hanya butuh initilze SDK. Registrasi https://ad.clickmobile.id/
+    // h. SELECT_MAIN_ADS="ALIEN-M" iklan husus dari Aliendroid menggunakan sistem mediasi, saat ini hanya menggunakan Smaato
+    // sebagai mediasi dengan dukungan format iklan Banner, interstitial, rewards dan natives
+	   
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+	  
+      "select_main_ads": "",
+      "select_backup_ads":"",
+
+	  "interval_intertitial": 5,
+	  "INTERVAL_NATIVE": 7,
+	  
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      
+	  
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+	  
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",	  
+      "switch_banner_natives_ads":"",
+	  
+	  
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+	  
+	  "Dialog_untuk_exit" : "Kasih semangat dengan melakukan rating bintang 5 ya bree",
+	  
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "kosong",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/12/19/box-159629_960_720.png"
+    }
+  ],
+  "Data": [
+    {"id":1,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"belajar-melawan-sifat-egois.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/belajar-melawan-sifat-egois.mp3","lyrics":"nikmati dan hayati"},
+    {"id":2,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"bersihkan-hati.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/bersihkan-hati.mp3","lyrics":"nikmati dan hayati"},
+    {"id":3,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"dahsyatnya-istighfar.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/dahsyatnya-istighfar.mp3","lyrics":"nikmati dan hayati"},
+    {"id":4,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"dengar-ketika-sendiri.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/dengar-ketika-sendiri.mp3","lyrics":"nikmati dan hayati"},
+    {"id":5,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"istiqomah-jemput-jodoh.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/istiqomah-jemput-jodoh.mp3","lyrics":"nikmati dan hayati"},
+    {"id":6,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"murottal-juz-29.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/murottal-juz-29.mp3","lyrics":"nikmati dan hayati"},
+    {"id":7,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"murottal-juz-30.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/murottal-juz-30.mp3","lyrics":"nikmati dan hayati"},
+    {"id":8,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"murottal-surah-al-kahfi.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/murottal-surah-al-kahfi.mp3","lyrics":"nikmati dan hayati"},
+    {"id":9,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"murottal-surah-al-waqiah.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/murottal-surah-al-waqiah.mp3","lyrics":"nikmati dan hayati"},
+    {"id":10,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"murottal-surah-ar-rahman.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/murottal-surah-ar-rahman.mp3","lyrics":"nikmati dan hayati"},
+    {"id":11,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"murottal-surah-maryam.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/murottal-surah-maryam.mp3","lyrics":"nikmati dan hayati"},
+    {"id":12,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"rahasia-agar-doa-dikabulkan.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/rahasia-agar-doa-dikabulkan.mp3","lyrics":"nikmati dan hayati"},
+    {"id":13,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"semangat-hijrah-menjadi-lebih-baik.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/semangat-hijrah-menjadi-lebih-baik.mp3","lyrics":"nikmati dan hayati"},
+    {"id":14,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"takdirmu-sudah-tertulis.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/takdirmu-sudah-tertulis.mp3","lyrics":"nikmati dan hayati"},
+    {"id":15,"name_category":"kosong","image":"https://mutiarasurga.org/wp-content/uploads/2019/10/kisah-nyata-kejaiaban-shodaqoh-ust.-hanan-attaki.jpg","title":"tanda-tanda-kebaikan.mp3","link_mp3":"https://archive.org/download/KajianUstHananAttaki/tanda-tanda-kebaikan.mp3","lyrics":"nikmati dan hayati"}
+  ]
+}
