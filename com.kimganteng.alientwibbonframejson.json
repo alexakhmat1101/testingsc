@@ -1,0 +1,130 @@
+{"Ads": 
+  [
+    {
+
+//    Harap diperhatikan tidak boleh ada dua native dalam 1 halaman yang sama. Silahkan pilih salah satu
+//    Gunakan Native list dengan mengisi ON_OFF_NATIVE_ON_LIST = "1", atau matikan native dengan mengisi ON_OFF_NATIVE_ON_LIST = "0"
+//    Jika menggunakan Native Listview isi SWITCH_BANNER_NATIVES ="1"
+	  
+	  "on_off_native_listview":"",
+      "INTERVAL_NATIVE": 2,
+      
+	  "interval_intertitial": 5,
+		
+//    a. SELECT_BACKUP_ADS="ADMOB" Sistem mediasi dan open bidding
+//    b. SELECT_BACKUP_ADS="APPLOVIN-M" Sistem mediasi dan open bidding
+//    c. SELECT_BACKUP_ADS="APPLOVIN-D" Tanpa mediasi menggunakan Zone ID
+//    d. SELECT_BACKUP_ADS="STARTAPP" Tanpa Mediasi dan Open Bidding, butuh backup initilze SDK
+//    e. SELECT_BACKUP_ADS="FACEBOOK" waterfall
+//    f. SELECT_BACKUP_ADS="IRON" Sistem mediasi dan open bidding, butuh backup initilze SDK
+//    g. SELECT_MAIN_ADS="ALIEN-V" iklan husus dari Aliendroid hanya mendukung Banner 320x50, Interstitial dan Open Ads
+//       dengan sistem pembayaran per view. hanya butuh Placement DI untuk Initialize, banner, interstitial dan open ads
+//    h. SELECT_MAIN_ADS="ALIEN-M" iklan husus dari Aliendroid menggunakan sistem mediasi, saat ini hanya menggunakan Smaato
+//       sebagai mediasi dengan dukungan format iklan Banner, interstitial, rewards dan natives
+//    i. Backup ads bisa di matikan dengan cara mengisi null, SELECT_BACKUP_ADS ="null"
+
+      "select_main_ads": "",
+      "select_backup_ads":"",
+
+	  "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+	  
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      
+	  "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+	  
+//    Iklan pembuka atau Open App Ads hanya untuk iklan Admob, Applovin Max dan Alien-V
+//    Jenis iklan ini hanya bisa digunakan sebagai Main Ads.
+//    a. Hanya untuk SELECT_MAIN_ADS = "ADMOB" atau SELECT_MAIN_ADS ="APPLOVIN-M" atau SELECT_MAIN_ADS ="ALIEN-V"
+//       tidak berlaku untuk SELECT_BACKUP_ADS.
+//    b. ALIEN_OPENADS isi dengan Placement ID seperti PL350911184828 atau null jika tidak digunakan
+//    c. ADMOB_OPENADS = isi dengan unit open ads Admob seperti "ca-app-pub-3940256099942544/3419835294"
+//    d. MAX_OPENADS = isi dengan unit open ads Applovin Max seperti "asdfg123456"
+//    e. isi "null" jika tidak ingin menggunakan open ads
+      
+	  "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+
+//    SWITCH_BANNER_NATIVES hanya untuk iklan Admob, Facebook, StartApp, Applovin-M dan Alien-M
+//    Gunakan 1 untuk Banner Ads, 2 untuk mengubah menjadi Natives Ads
+
+	  "switch_banner_natives_ads":"",
+      
+      
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+	  
+      "ONE_SIGNAL_API_KEY": "",
+
+      "JUMLAH_KOLOM_GAMBAR": 2,
+      
+	  "shareit_kata_kata": "Aku Suka Banget aplikasi ini, kamu harus coba sekarang juga !! yuk donwload :D",
+
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "extend_event_position":"",
+      "extend_category_event":"",
+      "extend_of_off_event":"",
+      "extend_url_image_event_banner":"",
+      "extend_url_image_event_popup":""
+
+    }
+  ],
+     "Categories": [
+    {
+      "category": "trend",
+      "image_link": "frame/batik.webp"
+
+    }
+  ],
+
+  "Item": [
+    
+{"id":1,"category":"trend","title":"1","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":2,"category":"trend","title":"2","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":3,"category":"trend","title":"3","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":4,"category":"trend","title":"4","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":5,"category":"trend","title":"5","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":6,"category":"trend","title":"6","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":7,"category":"trend","title":"7","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":8,"category":"trend","title":"8","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":9,"category":"trend","title":"9","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":10,"category":"trend","title":"10","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":11,"category":"trend","title":"11","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":12,"category":"trend","title":"12","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":13,"category":"trend","title":"13","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":14,"category":"trend","title":"14","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":15,"category":"trend","title":"15","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":16,"category":"trend","title":"16","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":17,"category":"trend","title":"17","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":18,"category":"trend","title":"18","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":19,"category":"trend","title":"19","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":20,"category":"trend","title":"20","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":21,"category":"trend","title":"21","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":22,"category":"trend","title":"22","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":23,"category":"trend","title":"23","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":24,"category":"trend","title":"24","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":25,"category":"trend","title":"25","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":26,"category":"trend","title":"26","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":27,"category":"trend","title":"27","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":28,"category":"trend","title":"28","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":29,"category":"trend","title":"29","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":30,"category":"trend","title":"30","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":31,"category":"trend","title":"31","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":32,"category":"trend","title":"32","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":33,"category":"trend","title":"33","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"},
+{"id":34,"category":"trend","title":"34","image_link":"https://pngimg.com/uploads/picture_frame/picture_frame_PNG220.png"},
+{"id":35,"category":"trend","title":"35","image_link":"https://webstockreview.net/images/oval-gold-frame-png-12.png"},
+{"id":36,"category":"trend","title":"36","image_link":"http://clipart-library.com/images_k/transparent-photo-frame/transparent-photo-frame-12.png"}
+	
+	]
+}
