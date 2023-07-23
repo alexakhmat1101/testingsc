@@ -1,6 +1,7 @@
 {
   "url_json": "https://www.example.com/ads_configuration.json",
-  "mode_review": true,
+  "ADPLATFORMS": ["admob", "applovin", "unity"]
+  "mode_review": false,
   "mode_waterfall": true,
   "inters_delay_seconds": 5,
   "admob_inters": "ca-app-pub-3940256099942544/1033173712",
