@@ -1,0 +1,18 @@
+{
+    "mode_review": true,
+    "mode_waterfall": true,
+    "inters_delay_seconds": 10,
+    "admob_inters": "your_admob_inters_id",
+    "admob_banner": "your_admob_banner_id",
+    "applovin_max_inters": "your_applovin_max_inters_id",
+    "applovin_max_banner": "your_applovin_max_banner_id",
+    "button_start": "Start",
+    "button_share": "Share",
+    "button_rating": "Rate",
+    "rate_button": "Rate Now",
+    "later_button": "Later",
+    "exit_popup_dialog": "Exit",
+    "sleeptimer_button": "Sleep Timer",
+    "redirect_traffic": false,
+    "link_redirect": "your_redirect_link"
+}
