@@ -1,0 +1,24 @@
+{
+  "More": [
+    {
+      "title": "Ludo King Off",
+      "image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Nature",
+      "image": "https://static.vecteezy.com/system/resources/previews/006/530/809/original/arcade-game-isometric-icon-editable-vector.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "title": "Beach",
+      "name_category": "Nature",
+      "image": "video_2023-12-29_15-26-00.mp4",
+      "link": "https://ia601303.us.archive.org/33/items/d_20231229/",
+      "type": "MP4"
+    }
+  ]
+}
