@@ -3,12 +3,20 @@
     {
       "MODE_NO_ADS": true,
       "INTERVAL_INTERS_MINUTES": 1,
-      "MAX_INTERSTITIAL_COUNT": 5,
+      "MAX_INTERSTITIAL_COUNT": 3,
       "MAIN_ADS_INTERTITIAL": "ca-app-pub-3940256099942544/1033173712",
       "MAIN_ADS_BANNER": "ca-app-pub-3940256099942544/6300978111",
       "REDIRECT_TRAFFIC": false,
-      "LINK_REDIRECT": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia",
-      "MORE_APPS_BOTTOMBAR": false
+      "LINK_REDIRECT": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
+      "MORE_APPS_BOTTOMBAR": false,
+      "JUMLAH_KOLOM_WALLP": 2,
+      "EXIT_POPUP_DIALOG": "help give us a 5 star rating, so we keep the spirit of providing the latest updates",
+      "RATE_BUTTON": "Rate Now",
+      "LATER_BUTTON": "Rate Later",
+      "ENABLE_SHARE_BUTTON": true,
+      "SHARE_TXT": "Supperr APPS Download Now",
+      "MORE_BUTTON": "Share This Apps",
+      "URL_MORE_APPS": "-"
     }
   ],
   "More": [
