@@ -1,0 +1,81 @@
+{
+  "Ads": [
+    {
+      "REDIRECT_TRAFFIC": false,
+      "MODE_NO_ADS": true,
+      "ADS_ON_EXIT_DIALOG": true,
+      "INTERVAL_INTERS_MINUTES": 1,
+      "MAX_INTERSTITIAL_COUNT": 3,
+      "CODE_INTERSTTIAL_ADMOB": "ca-app-pub-3940256099942544/1033173712",
+      "CODE_BANNER_ADMOB": "ca-app-pub-3940256099942544/6300978111",
+      "ON_OFF_BANNER_DIALOG_EXIT": "1",
+      "REDIRECT_TRAFFIC": false,
+      "LINK_REDIRECT": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
+      "RANDOM_LIST": "2",
+      "SHARE_TXT": "Unleash the power of Supperr APPS! Elevate your device's aesthetics with stunning wallpapers. ⭐⭐⭐⭐⭐ Share the magic with your friends now. Download Supperr APPS for an extraordinary visual experience! 🌟",
+      "EXIT_POPUP_DIALOG": "Leave a touch of beauty on your screen! Share this enchantment with your friends now and spread the captivating charm of Supperr APPS. With each share, you're giving it a sparkling 5-star touch! Come on, experience the uniquenes ! ✨⭐⭐⭐⭐⭐"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "parallax",
+      "wallpaper_url": "offlineimages/images (1).jpg"
+    }
+  ],
+    "Wallpaper": [
+{  "id": 1,  "name_category": "parallax",  "wallpaper_name": "images (1).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (1).jpg"},
+{  "id": 2,  "name_category": "parallax",  "wallpaper_name": "images (1).png",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (1).png"},
+{  "id": 3,  "name_category": "parallax",  "wallpaper_name": "images (10).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (10).jpg"},
+{  "id": 4,  "name_category": "parallax",  "wallpaper_name": "images (11).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (11).jpg"},
+{  "id": 5,  "name_category": "parallax",  "wallpaper_name": "images (12).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (12).jpg"},
+{  "id": 6,  "name_category": "parallax",  "wallpaper_name": "images (13).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (13).jpg"},
+{  "id": 7,  "name_category": "parallax",  "wallpaper_name": "images (14).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (14).jpg"},
+{  "id": 8,  "name_category": "parallax",  "wallpaper_name": "images (15).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (15).jpg"},
+{  "id": 9,  "name_category": "parallax",  "wallpaper_name": "images (16).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (16).jpg"},
+{  "id": 10,  "name_category": "parallax",  "wallpaper_name": "images (17).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (17).jpg"},
+{  "id": 11,  "name_category": "parallax",  "wallpaper_name": "images (18).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (18).jpg"},
+{  "id": 12,  "name_category": "parallax",  "wallpaper_name": "images (19).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (19).jpg"},
+{  "id": 13,  "name_category": "parallax",  "wallpaper_name": "images (2).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (2).jpg"},
+{  "id": 14,  "name_category": "parallax",  "wallpaper_name": "images (2).png",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (2).png"},
+{  "id": 15,  "name_category": "parallax",  "wallpaper_name": "images (20).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (20).jpg"},
+{  "id": 16,  "name_category": "parallax",  "wallpaper_name": "images (21).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (21).jpg"},
+{  "id": 17,  "name_category": "parallax",  "wallpaper_name": "images (22).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (22).jpg"},
+{  "id": 18,  "name_category": "parallax",  "wallpaper_name": "images (23).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (23).jpg"},
+{  "id": 19,  "name_category": "parallax",  "wallpaper_name": "images (24).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (24).jpg"},
+{  "id": 20,  "name_category": "parallax",  "wallpaper_name": "images (25).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (25).jpg"},
+{  "id": 21,  "name_category": "parallax",  "wallpaper_name": "images (26).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (26).jpg"},
+{  "id": 22,  "name_category": "parallax",  "wallpaper_name": "images (27).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (27).jpg"},
+{  "id": 23,  "name_category": "parallax",  "wallpaper_name": "images (28).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (28).jpg"},
+{  "id": 24,  "name_category": "parallax",  "wallpaper_name": "images (29).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (29).jpg"},
+{  "id": 25,  "name_category": "parallax",  "wallpaper_name": "images (3).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (3).jpg"},
+{  "id": 26,  "name_category": "parallax",  "wallpaper_name": "images (30).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (30).jpg"},
+{  "id": 27,  "name_category": "parallax",  "wallpaper_name": "images (31).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (31).jpg"},
+{  "id": 28,  "name_category": "parallax",  "wallpaper_name": "images (32).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (32).jpg"},
+{  "id": 29,  "name_category": "parallax",  "wallpaper_name": "images (33).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (33).jpg"},
+{  "id": 30,  "name_category": "parallax",  "wallpaper_name": "images (34).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (34).jpg"},
+{  "id": 31,  "name_category": "parallax",  "wallpaper_name": "images (35).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (35).jpg"},
+{  "id": 32,  "name_category": "parallax",  "wallpaper_name": "images (36).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (36).jpg"},
+{  "id": 33,  "name_category": "parallax",  "wallpaper_name": "images (37).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (37).jpg"},
+{  "id": 34,  "name_category": "parallax",  "wallpaper_name": "images (38).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (38).jpg"},
+{  "id": 35,  "name_category": "parallax",  "wallpaper_name": "images (39).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (39).jpg"},
+{  "id": 36,  "name_category": "parallax",  "wallpaper_name": "images (4).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (4).jpg"},
+{  "id": 37,  "name_category": "parallax",  "wallpaper_name": "images (40).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (40).jpg"},
+{  "id": 38,  "name_category": "parallax",  "wallpaper_name": "images (41).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (41).jpg"},
+{  "id": 39,  "name_category": "parallax",  "wallpaper_name": "images (42).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (42).jpg"},
+{  "id": 40,  "name_category": "parallax",  "wallpaper_name": "images (43).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (43).jpg"},
+{  "id": 41,  "name_category": "parallax",  "wallpaper_name": "images (44).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (44).jpg"},
+{  "id": 42,  "name_category": "parallax",  "wallpaper_name": "images (45).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (45).jpg"},
+{  "id": 43,  "name_category": "parallax",  "wallpaper_name": "images (46).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (46).jpg"},
+{  "id": 44,  "name_category": "parallax",  "wallpaper_name": "images (47).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (47).jpg"},
+{  "id": 45,  "name_category": "parallax",  "wallpaper_name": "images (48).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (48).jpg"},
+{  "id": 46,  "name_category": "parallax",  "wallpaper_name": "images (5).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (5).jpg"},
+{  "id": 47,  "name_category": "parallax",  "wallpaper_name": "images (6).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (6).jpg"},
+{  "id": 48,  "name_category": "parallax",  "wallpaper_name": "images (7).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (7).jpg"},
+{  "id": 49,  "name_category": "parallax",  "wallpaper_name": "images (8).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (8).jpg"},
+{  "id": 50,  "name_category": "parallax",  "wallpaper_name": "images (9).jpg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (9).jpg"},
+{  "id": 51,  "name_category": "parallax",  "wallpaper_name": "video_2023-12-29_15-26-00.mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://ia601303.us.archive.org/33/items/d_20231229/video_2023-12-29_15-26-00.mp4"},
+{  "id": 52,  "name_category": "parallax",  "wallpaper_name": "lv_0_20240109110325.mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://github.com/alexakhmat1101/testingsc/raw/main/lv_0_20240109110325.mp4"}
+  ]
+
+}
