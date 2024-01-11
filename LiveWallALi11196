@@ -1,7 +1,6 @@
 {
   "Ads": [
     {
-      "REDIRECT_TRAFFIC": false,
       "MODE_NO_ADS": true,
       "ADS_ON_EXIT_DIALOG": true,
       "INTERVAL_INTERS_MINUTES": 1,
